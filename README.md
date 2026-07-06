@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ByteAcumen/DailyLeetCode/tree/master/0014-longest-common-prefix) |
+| [0704-binary-search](https://github.com/ByteAcumen/DailyLeetCode/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/ByteAcumen/DailyLeetCode/tree/master/1903-largest-odd-number-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ByteAcumen/DailyLeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
