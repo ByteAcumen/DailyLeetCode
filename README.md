@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ByteAcumen/DailyLeetCode/tree/master/0014-longest-common-prefix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ByteAcumen/DailyLeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ByteAcumen/DailyLeetCode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/ByteAcumen/DailyLeetCode/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ByteAcumen/DailyLeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ByteAcumen/DailyLeetCode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/ByteAcumen/DailyLeetCode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
